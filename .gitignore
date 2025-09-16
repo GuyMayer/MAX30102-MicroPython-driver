@@ -13,3 +13,6 @@ example/lib/max30102.py
 
 # Python dev
 /venv
+__pycache__/
+*.py[cod]
+*$py.class
